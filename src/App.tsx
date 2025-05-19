@@ -13,6 +13,8 @@ import NewsDetailPage from './pages/NewsDetailPage';
 import UMKMDetailPage from './pages/UMKMDetailPage';
 import KoperasiDetailPage from './pages/KoperasiDetailPage';
 import NotFoundPage from './pages/NotFoundPage';
+import LoginPage from './pages/LoginPage';
+import RegisterPage from './pages/RegisterPage';
 
 function App() {
   return (
@@ -30,6 +32,8 @@ function App() {
         <Route path="about" element={<AboutPage />} />
         <Route path="konsultasi" element={<ConsultationPage />} />
         <Route path="live-streaming" element={<LiveStreamingPage />} />
+        <Route path="login" element={<LoginPage />} />
+        <Route path="register" element={<RegisterPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Route>
     </Routes>

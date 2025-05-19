@@ -35,6 +35,8 @@ const MainLayout = () => {
     { name: 'Live Streaming', path: '/live-streaming' },
     { name: 'Tentang Kami', path: '/about' },
     { name: 'Kontak', path: '/contact' },
+    { name: 'SignIn', path: '/login' },
+
   ];
 
   return (
