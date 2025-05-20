@@ -15,7 +15,7 @@ export const streamsData: StreamItem[] = [
   {
     id: '2',
     title: 'Live Streaming: Pengajian Rutin Bulanan',
-    description: 'Pengajian rutin bulanan NU Muslimah dengan tema "Menjadi Muslimah Tangguh di Era Digital" yang disampaikan oleh Ustadzah Hj. Luthfiyah, S.Pd.I.',
+    description: 'Pengajian rutin bulanan Muslimat NU dengan tema "Menjadi Muslimah Tangguh di Era Digital" yang disampaikan oleh Ustadzah Hj. Luthfiyah, S.Pd.I.',
     date: '2023-10-05',
     time: '19:00 - 21:00 WIB',
     videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',

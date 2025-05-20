@@ -3,13 +3,13 @@ import { NewsItem } from '../types';
 export const newsData: NewsItem[] = [
   {
     id: '1',
-    title: 'NU Muslimah Gelar Pelatihan Wirausaha untuk Pemberdayaan Ekonomi Perempuan',
-    excerpt: 'Sebagai upaya pemberdayaan ekonomi perempuan, NU Muslimah mengadakan pelatihan wirausaha yang diikuti oleh 50 peserta dari berbagai daerah.',
-    content: `<p>SURABAYA - Nahdlatul Ulama Muslimah (NU Muslimah) mengadakan pelatihan wirausaha yang bertujuan untuk memberdayakan ekonomi perempuan. Kegiatan ini diadakan pada Sabtu, 15 Juli 2023 di Aula Gedung PCNU Surabaya dan diikuti oleh 50 peserta dari berbagai daerah.</p>
+    title: 'Muslimat NU Gelar Pelatihan Wirausaha untuk Pemberdayaan Ekonomi Perempuan',
+    excerpt: 'Sebagai upaya pemberdayaan ekonomi perempuan, Muslimat NU mengadakan pelatihan wirausaha yang diikuti oleh 50 peserta dari berbagai daerah.',
+    content: `<p>SURABAYA - Muslimat NU Muslimah (Muslimat NU) mengadakan pelatihan wirausaha yang bertujuan untuk memberdayakan ekonomi perempuan. Kegiatan ini diadakan pada Sabtu, 15 Juli 2023 di Aula Gedung PCNU Surabaya dan diikuti oleh 50 peserta dari berbagai daerah.</p>
 
-    <p>Ketua NU Muslimah, Hj. Siti Masruroh, S.Ag, dalam sambutannya menyampaikan bahwa kegiatan ini merupakan salah satu program prioritas NU Muslimah dalam upaya pemberdayaan ekonomi perempuan.</p>
+    <p>Ketua Muslimat NU, Hj. Siti Masruroh, S.Ag, dalam sambutannya menyampaikan bahwa kegiatan ini merupakan salah satu program prioritas Muslimat NU dalam upaya pemberdayaan ekonomi perempuan.</p>
     
-    <p>"Kami ingin para perempuan, khususnya anggota NU Muslimah, memiliki kemandirian ekonomi sehingga dapat menjadi pilar yang kuat dalam keluarga dan masyarakat," ujarnya.</p>
+    <p>"Kami ingin para perempuan, khususnya anggota Muslimat NU, memiliki kemandirian ekonomi sehingga dapat menjadi pilar yang kuat dalam keluarga dan masyarakat," ujarnya.</p>
     
     <p>Pelatihan wirausaha ini menghadirkan beberapa narasumber kompeten di bidangnya, antara lain Hj. Lilik Hamidah, pakar ekonomi syariah, dan H. Ahmad Fauzi, praktisi UMKM sukses.</p>
     
@@ -19,7 +19,7 @@ export const newsData: NewsItem[] = [
     
     <p>Sementara itu, salah satu peserta, Nur Faizah dari Gresik, mengaku sangat antusias mengikuti kegiatan ini. "Saya mendapat banyak ilmu baru, terutama tentang cara memasarkan produk secara online. Ini sangat bermanfaat untuk usaha kecil saya," ucapnya.</p>
     
-    <p>NU Muslimah berencana akan mengadakan pelatihan serupa di daerah-daerah lain dan memberikan pendampingan berkelanjutan bagi para peserta yang ingin mengembangkan usahanya.</p>`,
+    <p>Muslimat NU berencana akan mengadakan pelatihan serupa di daerah-daerah lain dan memberikan pendampingan berkelanjutan bagi para peserta yang ingin mengembangkan usahanya.</p>`,
     category: 'Kegiatan',
     date: '2023-07-15',
     author: 'Hj. Aminah Zahro',
@@ -59,9 +59,9 @@ export const newsData: NewsItem[] = [
       <li>Dapat digabungkan dengan puasa sunnah lain seperti Senin-Kamis</li>
     </ul>
     
-    <p>Ustadzah Hj. Siti Nur Azizah, salah satu pengurus NU Muslimah, menjelaskan bahwa puasa Syawal merupakan salah satu cara untuk melatih istiqomah setelah Ramadhan. "Setelah Ramadhan, kita dianjurkan untuk tetap menjaga semangat ibadah, salah satunya melalui puasa Syawal ini," jelasnya.</p>
+    <p>Ustadzah Hj. Siti Nur Azizah, salah satu pengurus Muslimat NU, menjelaskan bahwa puasa Syawal merupakan salah satu cara untuk melatih istiqomah setelah Ramadhan. "Setelah Ramadhan, kita dianjurkan untuk tetap menjaga semangat ibadah, salah satunya melalui puasa Syawal ini," jelasnya.</p>
     
-    <p>NU Muslimah mengajak para muslimah untuk memanfaatkan kesempatan ini dengan sebaik-baiknya dan mengambil keutamaan dari ibadah puasa Syawal.</p>`,
+    <p>Muslimat NU mengajak para muslimah untuk memanfaatkan kesempatan ini dengan sebaik-baiknya dan mengambil keutamaan dari ibadah puasa Syawal.</p>`,
     category: 'Keagamaan',
     date: '2023-04-25',
     author: 'Ustadzah Hj. Fatimah Azzahra',
@@ -70,17 +70,17 @@ export const newsData: NewsItem[] = [
   },
   {
     id: '3',
-    title: 'NU Muslimah Adakan Bakti Sosial di Panti Asuhan Al-Ikhlas',
-    excerpt: 'NU Muslimah mengadakan bakti sosial di Panti Asuhan Al-Ikhlas dengan memberikan bantuan sembako, pakaian, dan alat tulis untuk 35 anak.',
-    content: `<p>BANDUNG - NU Muslimah mengadakan kegiatan bakti sosial di Panti Asuhan Al-Ikhlas, Bandung, pada hari Minggu, 20 Agustus 2023. Kegiatan ini merupakan bagian dari program "Peduli Sesama" yang rutin dilaksanakan oleh organisasi tersebut.</p>
+    title: 'Muslimat NU Adakan Bakti Sosial di Panti Asuhan Al-Ikhlas',
+    excerpt: 'Muslimat NU mengadakan bakti sosial di Panti Asuhan Al-Ikhlas dengan memberikan bantuan sembako, pakaian, dan alat tulis untuk 35 anak.',
+    content: `<p>BANDUNG - Muslimat NU mengadakan kegiatan bakti sosial di Panti Asuhan Al-Ikhlas, Bandung, pada hari Minggu, 20 Agustus 2023. Kegiatan ini merupakan bagian dari program "Peduli Sesama" yang rutin dilaksanakan oleh organisasi tersebut.</p>
 
-    <p>Rombongan NU Muslimah yang dipimpin oleh Hj. Nur Hasanah, Ketua Bidang Sosial, menyerahkan bantuan berupa sembako, pakaian layak pakai, dan alat tulis untuk 35 anak penghuni panti asuhan.</p>
+    <p>Rombongan Muslimat NU yang dipimpin oleh Hj. Nur Hasanah, Ketua Bidang Sosial, menyerahkan bantuan berupa sembako, pakaian layak pakai, dan alat tulis untuk 35 anak penghuni panti asuhan.</p>
     
     <p>"Ini adalah bentuk kepedulian kami terhadap sesama, terutama anak-anak yatim piatu yang membutuhkan perhatian dan kasih sayang," ujar Hj. Nur Hasanah.</p>
     
-    <p>Selain memberikan bantuan material, NU Muslimah juga mengadakan kegiatan motivasi dan edukasi bagi anak-anak panti asuhan. Salah satu anggota, Ustadzah Aminah, memberikan tausiyah singkat tentang pentingnya menuntut ilmu dan berakhlak mulia.</p>
+    <p>Selain memberikan bantuan material, Muslimat NU juga mengadakan kegiatan motivasi dan edukasi bagi anak-anak panti asuhan. Salah satu anggota, Ustadzah Aminah, memberikan tausiyah singkat tentang pentingnya menuntut ilmu dan berakhlak mulia.</p>
     
-    <p>Pengasuh Panti Asuhan Al-Ikhlas, H. Abdul Karim, menyampaikan rasa terima kasihnya atas bantuan yang diberikan. "Kami sangat bersyukur dan berterima kasih kepada NU Muslimah yang telah memperhatikan anak-anak kami di sini. Semoga Allah SWT membalas kebaikan ini dengan berlipat ganda," ucapnya.</p>
+    <p>Pengasuh Panti Asuhan Al-Ikhlas, H. Abdul Karim, menyampaikan rasa terima kasihnya atas bantuan yang diberikan. "Kami sangat bersyukur dan berterima kasih kepada Muslimat NU yang telah memperhatikan anak-anak kami di sini. Semoga Allah SWT membalas kebaikan ini dengan berlipat ganda," ucapnya.</p>
     
     <p>Dalam kesempatan tersebut, anak-anak panti asuhan juga menampilkan beberapa pertunjukan, seperti membaca puisi dan menyanyi lagu-lagu islami, sebagai bentuk terima kasih mereka.</p>
     
@@ -88,7 +88,7 @@ export const newsData: NewsItem[] = [
     
     <p>"Kami berharap kegiatan seperti ini tidak hanya berhenti di sini, tapi bisa berkelanjutan dan menjangkau lebih banyak pihak yang membutuhkan," tambah Hj. Nur Hasanah.</p>
     
-    <p>NU Muslimah juga mengajak masyarakat untuk turut berpartisipasi dalam program-program sosial serupa di masa mendatang.</p>`,
+    <p>Muslimat NU juga mengajak masyarakat untuk turut berpartisipasi dalam program-program sosial serupa di masa mendatang.</p>`,
     category: 'Sosial',
     date: '2023-08-20',
     author: 'Hj. Nur Hasanah',
@@ -97,13 +97,13 @@ export const newsData: NewsItem[] = [
   },
   {
     id: '4',
-    title: 'Peringatan Hari Kartini: NU Muslimah Gelar Seminar Kepemimpinan Perempuan',
-    excerpt: 'Dalam rangka memperingati Hari Kartini, NU Muslimah menggelar seminar kepemimpinan perempuan dengan tema "Perempuan Tangguh, Pemimpin Berpengaruh".',
-    content: `<p>JAKARTA - Nahdlatul Ulama Muslimah (NU Muslimah) menggelar seminar kepemimpinan perempuan dalam rangka memperingati Hari Kartini pada Sabtu, 21 April 2023. Seminar yang bertema "Perempuan Tangguh, Pemimpin Berpengaruh" ini diselenggarakan di Aula Gedung PBNU Jakarta.</p>
+    title: 'Peringatan Hari Kartini: Muslimat NU Gelar Seminar Kepemimpinan Perempuan',
+    excerpt: 'Dalam rangka memperingati Hari Kartini, Muslimat NU menggelar seminar kepemimpinan perempuan dengan tema "Perempuan Tangguh, Pemimpin Berpengaruh".',
+    content: `<p>JAKARTA - Muslimat NU Muslimah (Muslimat NU) menggelar seminar kepemimpinan perempuan dalam rangka memperingati Hari Kartini pada Sabtu, 21 April 2023. Seminar yang bertema "Perempuan Tangguh, Pemimpin Berpengaruh" ini diselenggarakan di Aula Gedung PBNU Jakarta.</p>
 
-    <p>Acara ini dihadiri oleh ratusan peserta yang terdiri dari anggota NU Muslimah, mahasiswi, dan perempuan dari berbagai profesi. Hadir sebagai pembicara utama adalah Prof. Dr. Hj. Khofifah Indar Parawansa, Gubernur Jawa Timur, serta beberapa tokoh perempuan berpengaruh lainnya.</p>
+    <p>Acara ini dihadiri oleh ratusan peserta yang terdiri dari anggota Muslimat NU, mahasiswi, dan perempuan dari berbagai profesi. Hadir sebagai pembicara utama adalah Prof. Dr. Hj. Khofifah Indar Parawansa, Gubernur Jawa Timur, serta beberapa tokoh perempuan berpengaruh lainnya.</p>
     
-    <p>Dalam sambutannya, Ketua Umum NU Muslimah, Hj. Siti Masruroh, menekankan pentingnya peran perempuan dalam pembangunan bangsa. "Hari Kartini bukan hanya sekedar peringatan, tetapi juga momentum untuk merefleksikan perjuangan dan peran perempuan dalam berbagai bidang kehidupan," ujarnya.</p>
+    <p>Dalam sambutannya, Ketua Umum Muslimat NU, Hj. Siti Masruroh, menekankan pentingnya peran perempuan dalam pembangunan bangsa. "Hari Kartini bukan hanya sekedar peringatan, tetapi juga momentum untuk merefleksikan perjuangan dan peran perempuan dalam berbagai bidang kehidupan," ujarnya.</p>
     
     <p>Prof. Dr. Hj. Khofifah Indar Parawansa dalam materinya menyampaikan bahwa kepemimpinan perempuan memiliki keunikan tersendiri. "Perempuan memiliki kekuatan empati dan kemampuan mengelola berbagai hal secara simultan, yang menjadi kekuatan dalam kepemimpinan," jelasnya.</p>
     
@@ -122,11 +122,11 @@ export const newsData: NewsItem[] = [
   },
   {
     id: '5',
-    title: 'NU Muslimah Luncurkan Program Hafalan Al-Quran untuk Ibu Rumah Tangga',
-    excerpt: 'Program "Ummahat Hafiz" diluncurkan oleh NU Muslimah sebagai wadah bagi para ibu rumah tangga untuk menghafal Al-Quran dengan pendampingan profesional.',
-    content: `<p>YOGYAKARTA - NU Muslimah meluncurkan program hafalan Al-Quran khusus untuk ibu rumah tangga yang diberi nama "Ummahat Hafiz" pada Minggu, 3 September 2023 di Masjid Agung Yogyakarta. Program ini dirancang sebagai wadah bagi para ibu rumah tangga untuk menghafal Al-Quran dengan pendampingan dari para hafizah profesional.</p>
+    title: 'Muslimat NU Luncurkan Program Hafalan Al-Quran untuk Ibu Rumah Tangga',
+    excerpt: 'Program "Ummahat Hafiz" diluncurkan oleh Muslimat NU sebagai wadah bagi para ibu rumah tangga untuk menghafal Al-Quran dengan pendampingan profesional.',
+    content: `<p>YOGYAKARTA - Muslimat NU meluncurkan program hafalan Al-Quran khusus untuk ibu rumah tangga yang diberi nama "Ummahat Hafiz" pada Minggu, 3 September 2023 di Masjid Agung Yogyakarta. Program ini dirancang sebagai wadah bagi para ibu rumah tangga untuk menghafal Al-Quran dengan pendampingan dari para hafizah profesional.</p>
 
-    <p>Ketua Bidang Dakwah NU Muslimah, Ustadzah Hj. Khoiriyah, menjelaskan bahwa program ini lahir dari keprihatinan terhadap minimnya ruang bagi ibu rumah tangga untuk mengembangkan kemampuan menghafal Al-Quran.</p>
+    <p>Ketua Bidang Dakwah Muslimat NU, Ustadzah Hj. Khoiriyah, menjelaskan bahwa program ini lahir dari keprihatinan terhadap minimnya ruang bagi ibu rumah tangga untuk mengembangkan kemampuan menghafal Al-Quran.</p>
     
     <p>"Banyak ibu-ibu yang ingin menghafal Al-Quran tetapi kesulitan membagi waktu antara mengurus keluarga dan menghafal. Program ini hadir untuk memfasilitasi keinginan tersebut dengan metode yang sesuai dengan kondisi para ibu," ujarnya.</p>
     
@@ -134,7 +134,7 @@ export const newsData: NewsItem[] = [
     
     <p>"Metode yang kami gunakan adalah metode Talaqqi dan Muroja'ah, dimana peserta akan menyetorkan hafalannya langsung kepada pembimbing dan secara rutin mengulang hafalan yang sudah dimiliki," jelas Ustadzah Khoiriyah.</p>
     
-    <p>Dalam sambutannya, Ketua NU Muslimah Yogyakarta, Hj. Lathifah Shiddiq, menyampaikan bahwa program ini sejalan dengan misi organisasi untuk meningkatkan kualitas keagamaan para anggotanya.</p>
+    <p>Dalam sambutannya, Ketua Muslimat NU Yogyakarta, Hj. Lathifah Shiddiq, menyampaikan bahwa program ini sejalan dengan misi organisasi untuk meningkatkan kualitas keagamaan para anggotanya.</p>
     
     <p>"Menghafal Al-Quran adalah salah satu cara untuk mendekatkan diri kepada Allah SWT. Kami berharap, melalui program ini, para ibu tidak hanya menjadi hafizah tetapi juga dapat mengajarkan Al-Quran kepada anak-anak mereka," ujarnya.</p>
     
@@ -142,7 +142,7 @@ export const newsData: NewsItem[] = [
     
     <p>Salah satu peserta, Ibu Siti Rohmah (42), mengungkapkan kegembiraannya bisa bergabung dalam program ini. "Saya sudah lama ingin menghafal Al-Quran tapi tidak tahu caranya karena sibuk mengurus keluarga. Alhamdulillah, dengan adanya program ini, saya punya kesempatan untuk mewujudkan keinginan tersebut," ujarnya.</p>
     
-    <p>NU Muslimah juga berencana untuk mengembangkan program ini ke berbagai daerah lain di Indonesia jika mendapat respon positif dari masyarakat.</p>`,
+    <p>Muslimat NU juga berencana untuk mengembangkan program ini ke berbagai daerah lain di Indonesia jika mendapat respon positif dari masyarakat.</p>`,
     category: 'Keagamaan',
     date: '2023-09-03',
     author: 'Ustadzah Hj. Khoiriyah',
@@ -151,11 +151,11 @@ export const newsData: NewsItem[] = [
   },
   {
     id: '6',
-    title: 'NU Muslimah Gelar Workshop Pengolahan Makanan Halal dan Sehat',
-    excerpt: 'Workshop pengolahan makanan halal dan sehat digelar oleh NU Muslimah untuk meningkatkan keterampilan anggota dalam menyajikan makanan yang tidak hanya lezat tetapi juga memenuhi standar halal dan kesehatan.',
-    content: `<p>SEMARANG - NU Muslimah menggelar workshop pengolahan makanan halal dan sehat pada Sabtu, 12 Agustus 2023 di Gedung Serba Guna NU Semarang. Workshop ini bertujuan untuk meningkatkan keterampilan anggota dalam menyajikan makanan yang tidak hanya lezat tetapi juga memenuhi standar halal dan kesehatan.</p>
+    title: 'Muslimat NU Gelar Workshop Pengolahan Makanan Halal dan Sehat',
+    excerpt: 'Workshop pengolahan makanan halal dan sehat digelar oleh Muslimat NU untuk meningkatkan keterampilan anggota dalam menyajikan makanan yang tidak hanya lezat tetapi juga memenuhi standar halal dan kesehatan.',
+    content: `<p>SEMARANG - Muslimat NU menggelar workshop pengolahan makanan halal dan sehat pada Sabtu, 12 Agustus 2023 di Gedung Serba Guna NU Semarang. Workshop ini bertujuan untuk meningkatkan keterampilan anggota dalam menyajikan makanan yang tidak hanya lezat tetapi juga memenuhi standar halal dan kesehatan.</p>
 
-    <p>Ketua Bidang Ekonomi NU Muslimah, Hj. Fatimah Zuhro, dalam sambutannya menyampaikan bahwa workshop ini merupakan bentuk kepedulian organisasi terhadap pentingnya penyajian makanan yang halal dan sehat bagi keluarga.</p>
+    <p>Ketua Bidang Ekonomi Muslimat NU, Hj. Fatimah Zuhro, dalam sambutannya menyampaikan bahwa workshop ini merupakan bentuk kepedulian organisasi terhadap pentingnya penyajian makanan yang halal dan sehat bagi keluarga.</p>
     
     <p>"Makanan yang kita konsumsi sangat memengaruhi kesehatan fisik dan spiritual kita. Oleh karena itu, penting bagi kita untuk memahami prinsip-prinsip pengolahan makanan yang halal dan sehat," ujarnya.</p>
     
@@ -167,7 +167,7 @@ export const newsData: NewsItem[] = [
     
     <p>"Makanan sehat tidak berarti tidak enak. Dengan teknik pengolahan yang tepat, makanan sehat bisa menjadi sangat lezat dan disukai oleh seluruh anggota keluarga," ujar Chef Farah.</p>
     
-    <p>Peserta workshop, yang terdiri dari 100 anggota NU Muslimah dari berbagai daerah di Jawa Tengah, terlihat sangat antusias mengikuti setiap sesi. Mereka juga berkesempatan untuk praktik langsung membuat beberapa hidangan sehat di bawah bimbingan para narasumber.</p>
+    <p>Peserta workshop, yang terdiri dari 100 anggota Muslimat NU dari berbagai daerah di Jawa Tengah, terlihat sangat antusias mengikuti setiap sesi. Mereka juga berkesempatan untuk praktik langsung membuat beberapa hidangan sehat di bawah bimbingan para narasumber.</p>
     
     <p>Salah satu peserta, Ibu Nur Hayati dari Kendal, mengaku mendapat banyak manfaat dari workshop ini. "Saya mendapat banyak pengetahuan baru tentang cara mengolah makanan yang sehat namun tetap lezat. Ini akan sangat bermanfaat untuk keluarga saya," ujarnya.</p>
     

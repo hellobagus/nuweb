@@ -6,7 +6,7 @@ export const koperasiData: KoperasiItem[] = [
     name: 'Koperasi Syariah Baitul Muslimah',
     type: 'Koperasi Simpan Pinjam Syariah',
     description: 'Koperasi simpan pinjam berbasis syariah yang melayani kebutuhan finansial anggota dengan akad-akad yang sesuai syariat Islam.',
-    content: `<p>Koperasi Syariah Baitul Muslimah didirikan pada tahun 2015 oleh pengurus NU Muslimah Kota Malang. Koperasi ini bergerak dalam bidang simpan pinjam berbasis syariah yang melayani kebutuhan finansial anggota dengan akad-akad yang sesuai syariat Islam.</p>
+    content: `<p>Koperasi Syariah Baitul Muslimah didirikan pada tahun 2015 oleh pengurus Muslimat NU Kota Malang. Koperasi ini bergerak dalam bidang simpan pinjam berbasis syariah yang melayani kebutuhan finansial anggota dengan akad-akad yang sesuai syariat Islam.</p>
 
     <p>Latar belakang pendirian koperasi ini adalah keprihatinan terhadap maraknya praktik rentenir dan pinjaman berbunga tinggi yang menjerat masyarakat, khususnya kaum perempuan yang memiliki usaha kecil.</p>
     
@@ -140,7 +140,7 @@ export const koperasiData: KoperasiItem[] = [
     name: 'Koperasi Konsumen Al-Barokah',
     type: 'Koperasi Konsumen',
     description: 'Koperasi yang menyediakan kebutuhan pokok dan produk halal dengan harga terjangkau. Memiliki jaringan toko yang tersebar di beberapa kecamatan.',
-    content: `<p>Koperasi Konsumen Al-Barokah didirikan pada tahun 2016 oleh pengurus NU Muslimah Kabupaten Sidoarjo. Koperasi ini bergerak dalam bidang penyediaan kebutuhan pokok dan produk halal dengan harga terjangkau, memiliki jaringan toko yang tersebar di beberapa kecamatan di Sidoarjo.</p>
+    content: `<p>Koperasi Konsumen Al-Barokah didirikan pada tahun 2016 oleh pengurus Muslimat NU Kabupaten Sidoarjo. Koperasi ini bergerak dalam bidang penyediaan kebutuhan pokok dan produk halal dengan harga terjangkau, memiliki jaringan toko yang tersebar di beberapa kecamatan di Sidoarjo.</p>
 
     <p>Latar belakang pendirian koperasi ini adalah keinginan untuk menyediakan produk-produk halal dan thoyyib dengan harga yang terjangkau bagi masyarakat, sekaligus sebagai sarana pemberdayaan ekonomi anggota.</p>
     

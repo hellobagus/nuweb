@@ -20,7 +20,7 @@ const HomePage = () => {
   return (
     <div>
       <Hero 
-        title="NU Muslimah"
+        title="Muslimat NU"
         subtitle="Nahdhatul Ulama Muslimah: Memberdayakan Muslimah, Membangun Peradaban"
         backgroundImage="https://images.pexels.com/photos/6143369/pexels-photo-6143369.jpeg"
         height="h-screen"
@@ -30,7 +30,7 @@ const HomePage = () => {
       <section className="py-16 md:py-24 bg-white">
         <div className="container mx-auto px-4">
           <SectionTitle 
-            title="Tentang NU Muslimah"
+            title="Tentang Muslimat NU"
             subtitle="Nahdhatul Ulama Muslimah adalah organisasi perempuan yang bergerak dalam bidang keagamaan, sosial, dan pemberdayaan perempuan."
           />
           
@@ -108,7 +108,7 @@ const HomePage = () => {
           <div className="flex justify-between items-center mb-10">
             <SectionTitle 
               title="Berita Terbaru"
-              subtitle="Informasi terkini seputar kegiatan dan program NU Muslimah"
+              subtitle="Informasi terkini seputar kegiatan dan program Muslimat NU"
               centered={false}
             />
             
@@ -139,7 +139,7 @@ const HomePage = () => {
           <div className="container mx-auto px-4">
             <SectionTitle 
               title="Sedang Live!"
-              subtitle="Ikuti kajian NU Muslimah yang sedang berlangsung"
+              subtitle="Ikuti kajian Muslimat NU yang sedang berlangsung"
               light={true}
             />
             
@@ -196,7 +196,7 @@ const HomePage = () => {
                   transition={{ duration: 0.5, delay: 0.2 }}
                 >
                   <h3 className="text-2xl font-bold mb-4">Ikuti Jadwal Kajian Kami</h3>
-                  <p className="mb-6">Dapatkan informasi terbaru tentang jadwal kajian dan live streaming NU Muslimah.</p>
+                  <p className="mb-6">Dapatkan informasi terbaru tentang jadwal kajian dan live streaming Muslimat NU.</p>
                   <Link
                     to="/live-streaming"
                     className="inline-flex items-center px-6 py-3 bg-white text-green-800 rounded-md hover:bg-gray-100 transition-colors"
@@ -217,7 +217,7 @@ const HomePage = () => {
           <div className="flex justify-between items-center mb-10">
             <SectionTitle 
               title="UMKM Binaan"
-              subtitle="Usaha Mikro Kecil dan Menengah yang dibina oleh NU Muslimah"
+              subtitle="Usaha Mikro Kecil dan Menengah yang dibina oleh Muslimat NU"
               centered={false}
             />
             
@@ -247,8 +247,8 @@ const HomePage = () => {
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center mb-10">
             <SectionTitle 
-              title="Koperasi NU Muslimah"
-              subtitle="Koperasi yang dikelola oleh NU Muslimah untuk kesejahteraan anggota"
+              title="Koperasi Muslimat NU"
+              subtitle="Koperasi yang dikelola oleh Muslimat NU untuk kesejahteraan anggota"
               centered={false}
             />
             

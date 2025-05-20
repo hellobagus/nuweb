@@ -20,7 +20,7 @@ const LiveStreamingPage = () => {
     <div>
       <Hero 
         title="Live Streaming Dakwah NU"
-        subtitle="Ikuti kajian dan dakwah NU Muslimah secara langsung"
+        subtitle="Ikuti kajian dan dakwah Muslimat NU secara langsung"
         backgroundImage="https://images.pexels.com/photos/5793953/pexels-photo-5793953.jpeg"
       />
       

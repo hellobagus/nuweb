@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Outlet, Link, useLocation } from 'react-router-dom';
 import { Menu, X, ChevronDown } from 'lucide-react';
 import Footer from '../components/Footer';
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo-muslimatNU.webp';
 
 const MainLayout = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -48,8 +48,8 @@ const MainLayout = () => {
       >
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
-            <img src={logo} alt="NU Muslimah Logo" className="h-12" />
-            <div className="font-semibold text-xl text-green-800">NU Muslimah</div>
+            <img src={logo} alt="Muslimat NU Logo" className="h-12" />
+            {/* <div className="font-semibold text-xl text-green-800">Muslimat NU</div> */}
           </Link>
 
           {/* Desktop Navigation */}

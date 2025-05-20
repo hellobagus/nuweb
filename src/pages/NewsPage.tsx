@@ -48,7 +48,7 @@ const NewsPage = () => {
     <div>
       <Hero 
         title="Berita & Artikel"
-        subtitle="Informasi terkini seputar kegiatan dan program NU Muslimah"
+        subtitle="Informasi terkini seputar kegiatan dan program Muslimat NU"
         backgroundImage="https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg"
       />
       

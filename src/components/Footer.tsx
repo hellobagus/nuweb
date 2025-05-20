@@ -9,9 +9,9 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">NU Muslimah</h3>
+            <h3 className="text-xl font-bold mb-4">Muslimat NU</h3>
             <p className="mb-4">
-              Nahdlatul Ulama Muslimah adalah organisasi perempuan yang bergerak dalam bidang keagamaan, sosial, dan pemberdayaan perempuan.
+              Muslimat NU Muslimah adalah organisasi perempuan yang bergerak dalam bidang keagamaan, sosial, dan pemberdayaan perempuan.
             </p>
             <div className="flex space-x-4 mt-6">
               <a href="#" className="hover:text-amber-300 transition-colors">
@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-green-700 mt-12 pt-6 text-center">
-          <p>&copy; {currentYear} NU Muslimah. Hak Cipta Dilindungi.</p>
+          <p>&copy; {currentYear} Muslimat NU. Hak Cipta Dilindungi.</p>
         </div>
       </div>
     </footer>

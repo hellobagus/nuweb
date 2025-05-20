@@ -79,7 +79,7 @@ const ReportsPage = () => {
     <div>
       <Hero 
         title="Laporan Bulanan"
-        subtitle="Transparansi kegiatan dan keuangan NU Muslimah"
+        subtitle="Transparansi kegiatan dan keuangan Muslimat NU"
         backgroundImage="https://images.pexels.com/photos/586079/pexels-photo-586079.jpeg"
       />
       

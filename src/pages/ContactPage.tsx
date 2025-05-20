@@ -111,7 +111,7 @@ const ContactPage = () => {
                       style={{ border: 0 }} 
                       allowFullScreen={false} 
                       loading="lazy"
-                      title="NU Muslimah Location"
+                      title="Muslimat NU Location"
                       className="w-full"
                     ></iframe>
                   </div>

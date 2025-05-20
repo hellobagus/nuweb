@@ -5,10 +5,10 @@ export const umkmData: UMKMItem[] = [
     id: '1',
     name: 'Batik Srikandi',
     category: 'Kerajinan',
-    description: 'Usaha batik tradisional yang dikelola oleh ibu-ibu anggota NU Muslimah. Memproduksi berbagai jenis batik tulis dan cap dengan motif khas pesantren dan budaya Islam Nusantara.',
-    content: `<p>Batik Srikandi adalah usaha batik tradisional yang dikelola oleh ibu-ibu anggota NU Muslimah sejak tahun 2015. Berlokasi di Kampung Batik Laweyan, Solo, usaha ini memproduksi berbagai jenis batik tulis dan cap dengan motif khas pesantren dan budaya Islam Nusantara.</p>
+    description: 'Usaha batik tradisional yang dikelola oleh ibu-ibu anggota Muslimat NU. Memproduksi berbagai jenis batik tulis dan cap dengan motif khas pesantren dan budaya Islam Nusantara.',
+    content: `<p>Batik Srikandi adalah usaha batik tradisional yang dikelola oleh ibu-ibu anggota Muslimat NU sejak tahun 2015. Berlokasi di Kampung Batik Laweyan, Solo, usaha ini memproduksi berbagai jenis batik tulis dan cap dengan motif khas pesantren dan budaya Islam Nusantara.</p>
 
-    <p>Berawal dari kegiatan PKK yang didirikan oleh 5 orang ibu-ibu di daerah Laweyan, saat ini Batik Srikandi telah memiliki 25 pengrajin tetap dan telah menjadi salah satu UMKM unggulan binaan NU Muslimah.</p>
+    <p>Berawal dari kegiatan PKK yang didirikan oleh 5 orang ibu-ibu di daerah Laweyan, saat ini Batik Srikandi telah memiliki 25 pengrajin tetap dan telah menjadi salah satu UMKM unggulan binaan Muslimat NU.</p>
     
     <h3>Visi dan Misi</h3>
     
@@ -81,7 +81,7 @@ export const umkmData: UMKMItem[] = [
     name: 'Catering Berkah Muslimah',
     category: 'Kuliner',
     description: 'Catering halal yang menyajikan berbagai menu tradisional Indonesia hingga masakan internasional. Dikelola oleh para muslimah dengan komitmen pada kualitas dan kebersihan.',
-    content: `<p>Catering Berkah Muslimah adalah usaha kuliner yang didirikan pada tahun 2018 oleh sekelompok ibu-ibu anggota NU Muslimah di Surabaya. Catering ini menyajikan berbagai menu masakan tradisional Indonesia hingga masakan internasional, dengan komitmen kuat pada kualitas, kebersihan, dan kehalalan produk.</p>
+    content: `<p>Catering Berkah Muslimah adalah usaha kuliner yang didirikan pada tahun 2018 oleh sekelompok ibu-ibu anggota Muslimat NU di Surabaya. Catering ini menyajikan berbagai menu masakan tradisional Indonesia hingga masakan internasional, dengan komitmen kuat pada kualitas, kebersihan, dan kehalalan produk.</p>
 
     <p>Berawal dari dapur rumahan yang hanya melayani pesanan tetangga, kini Catering Berkah Muslimah telah berkembang menjadi usaha catering profesional yang melayani berbagai acara, mulai dari pernikahan, pengajian, hingga seminar dan rapat kantor.</p>
     
@@ -157,7 +157,7 @@ export const umkmData: UMKMItem[] = [
     name: 'Hijab Syar\'i Collection',
     category: 'Fashion',
     description: 'Memproduksi berbagai model hijab dan busana muslim syar\'i dengan desain modern namun tetap sesuai syariat. Produk-produk berkualitas dengan harga terjangkau.',
-    content: `<p>Hijab Syar'i Collection adalah usaha fashion yang didirikan oleh sekelompok muslimah muda anggota NU Muslimah pada tahun 2019. Berlokasi di Bandung, usaha ini memproduksi berbagai model hijab dan busana muslim syar'i dengan desain yang modern namun tetap sesuai syariat Islam.</p>
+    content: `<p>Hijab Syar'i Collection adalah usaha fashion yang didirikan oleh sekelompok muslimah muda anggota Muslimat NU pada tahun 2019. Berlokasi di Bandung, usaha ini memproduksi berbagai model hijab dan busana muslim syar'i dengan desain yang modern namun tetap sesuai syariat Islam.</p>
 
     <p>Bermula dari keresahan akan sulitnya menemukan busana syar'i yang modis dan terjangkau, para pendiri kemudian berinisiatif untuk membuat sendiri busana yang mereka inginkan. Respons positif dari teman dan keluarga mendorong mereka untuk mengembangkan hobi ini menjadi usaha yang lebih serius.</p>
     
@@ -244,7 +244,7 @@ export const umkmData: UMKMItem[] = [
     id: '5',
     name: 'Kerajinan Nur',
     category: 'Kerajinan',
-    description: 'Menghasilkan kerajinan tangan seperti anyaman, sulaman, dan rajutan yang dibuat oleh para muslimah di desa-desa binaan NU Muslimah.',
+    description: 'Menghasilkan kerajinan tangan seperti anyaman, sulaman, dan rajutan yang dibuat oleh para muslimah di desa-desa binaan Muslimat NU.',
     image: 'https://images.pexels.com/photos/7661049/pexels-photo-7661049.jpeg',
     location: 'Desa Cibadak, Sukabumi, Jawa Barat',
     contact: '+62 878-9012-3456'

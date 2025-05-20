@@ -3,8 +3,8 @@ import { ReportItem } from '../types';
 export const reportsData: ReportItem[] = [
   {
     id: '1',
-    title: 'Laporan Kegiatan NU Muslimah',
-    description: 'Laporan kegiatan NU Muslimah selama bulan Januari 2023 yang mencakup kegiatan dakwah, sosial, dan pendidikan.',
+    title: 'Laporan Kegiatan Muslimat NU',
+    description: 'Laporan kegiatan Muslimat NU selama bulan Januari 2023 yang mencakup kegiatan dakwah, sosial, dan pendidikan.',
     date: '2023-01-31',
     fileUrl: '#',
     fileSize: '2.4 MB',
@@ -13,7 +13,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '2',
     title: 'Laporan Keuangan UMKM Binaan',
-    description: 'Laporan keuangan UMKM binaan NU Muslimah selama bulan Februari 2023, termasuk pertumbuhan omset dan tantangan yang dihadapi.',
+    description: 'Laporan keuangan UMKM binaan Muslimat NU selama bulan Februari 2023, termasuk pertumbuhan omset dan tantangan yang dihadapi.',
     date: '2023-02-28',
     fileUrl: '#',
     fileSize: '1.8 MB',
@@ -22,7 +22,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '3',
     title: 'Laporan Perkembangan Koperasi',
-    description: 'Perkembangan dan capaian koperasi-koperasi di bawah naungan NU Muslimah selama bulan Maret 2023.',
+    description: 'Perkembangan dan capaian koperasi-koperasi di bawah naungan Muslimat NU selama bulan Maret 2023.',
     date: '2023-03-31',
     fileUrl: '#',
     fileSize: '3.2 MB',
@@ -31,7 +31,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '4',
     title: 'Laporan Program Kesehatan',
-    description: 'Laporan pelaksanaan program kesehatan NU Muslimah, termasuk pengobatan gratis dan penyuluhan kesehatan selama bulan April 2023.',
+    description: 'Laporan pelaksanaan program kesehatan Muslimat NU, termasuk pengobatan gratis dan penyuluhan kesehatan selama bulan April 2023.',
     date: '2023-04-30',
     fileUrl: '#',
     fileSize: '4.1 MB',
@@ -40,7 +40,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '5',
     title: 'Laporan Bakti Sosial Ramadhan',
-    description: 'Laporan kegiatan bakti sosial Ramadhan 1444 H yang dilaksanakan oleh NU Muslimah di berbagai daerah.',
+    description: 'Laporan kegiatan bakti sosial Ramadhan 1444 H yang dilaksanakan oleh Muslimat NU di berbagai daerah.',
     date: '2023-05-31',
     fileUrl: '#',
     fileSize: '5.3 MB',
@@ -49,7 +49,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '6',
     title: 'Laporan Pendidikan dan Pelatihan',
-    description: 'Laporan program pendidikan dan pelatihan NU Muslimah selama bulan Juni 2023, termasuk pelatihan keterampilan dan pengajian rutin.',
+    description: 'Laporan program pendidikan dan pelatihan Muslimat NU selama bulan Juni 2023, termasuk pelatihan keterampilan dan pengajian rutin.',
     date: '2023-06-30',
     fileUrl: '#',
     fileSize: '2.7 MB',
@@ -58,7 +58,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '7',
     title: 'Laporan Keuangan Organisasi',
-    description: 'Laporan keuangan lengkap NU Muslimah selama bulan Juli 2023, termasuk pemasukan, pengeluaran, dan aset organisasi.',
+    description: 'Laporan keuangan lengkap Muslimat NU selama bulan Juli 2023, termasuk pemasukan, pengeluaran, dan aset organisasi.',
     date: '2023-07-31',
     fileUrl: '#',
     fileSize: '1.9 MB',
@@ -67,7 +67,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '8',
     title: 'Laporan Kegiatan Agustus',
-    description: 'Laporan kegiatan NU Muslimah selama bulan Agustus 2023, termasuk kegiatan dalam rangka peringatan HUT RI.',
+    description: 'Laporan kegiatan Muslimat NU selama bulan Agustus 2023, termasuk kegiatan dalam rangka peringatan HUT RI.',
     date: '2023-08-31',
     fileUrl: '#',
     fileSize: '3.0 MB',
@@ -76,7 +76,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '9',
     title: 'Laporan Pengembangan SDM',
-    description: 'Laporan program pengembangan sumber daya manusia NU Muslimah selama bulan September 2023.',
+    description: 'Laporan program pengembangan sumber daya manusia Muslimat NU selama bulan September 2023.',
     date: '2023-09-30',
     fileUrl: '#',
     fileSize: '2.5 MB',
@@ -85,7 +85,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '10',
     title: 'Laporan Dakwah dan Kajian',
-    description: 'Laporan kegiatan dakwah dan kajian rutin NU Muslimah selama bulan Oktober 2023 di berbagai daerah.',
+    description: 'Laporan kegiatan dakwah dan kajian rutin Muslimat NU selama bulan Oktober 2023 di berbagai daerah.',
     date: '2023-10-31',
     fileUrl: '#',
     fileSize: '2.2 MB',
@@ -94,7 +94,7 @@ export const reportsData: ReportItem[] = [
   {
     id: '11',
     title: 'Laporan Bantuan Bencana',
-    description: 'Laporan penyaluran bantuan bencana oleh NU Muslimah selama bulan November 2023 untuk korban banjir di beberapa wilayah.',
+    description: 'Laporan penyaluran bantuan bencana oleh Muslimat NU selama bulan November 2023 untuk korban banjir di beberapa wilayah.',
     date: '2023-11-30',
     fileUrl: '#',
     fileSize: '4.5 MB',
@@ -102,8 +102,8 @@ export const reportsData: ReportItem[] = [
   },
   {
     id: '12',
-    title: 'Laporan Tahunan NU Muslimah',
-    description: 'Laporan tahunan NU Muslimah yang mencakup seluruh kegiatan, capaian, dan keuangan organisasi selama tahun 2023.',
+    title: 'Laporan Tahunan Muslimat NU',
+    description: 'Laporan tahunan Muslimat NU yang mencakup seluruh kegiatan, capaian, dan keuangan organisasi selama tahun 2023.',
     date: '2023-12-31',
     fileUrl: '#',
     fileSize: '8.7 MB',

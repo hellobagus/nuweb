@@ -38,7 +38,7 @@ const UMKMPage = () => {
     <div>
       <Hero 
         title="UMKM Binaan"
-        subtitle="Usaha Mikro Kecil dan Menengah yang dibina oleh NU Muslimah"
+        subtitle="Usaha Mikro Kecil dan Menengah yang dibina oleh Muslimat NU"
         backgroundImage="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"
       />
       

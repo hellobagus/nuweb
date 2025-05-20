@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <div>
       <Hero 
-        title="Tentang NU Muslimah"
-        subtitle="Mengenal lebih dekat organisasi NU Muslimah dan visi misi kami"
+        title="Tentang Muslimat NU"
+        subtitle="Mengenal lebih dekat organisasi Muslimat NU dan visi misi kami"
         backgroundImage="https://images.pexels.com/photos/6146970/pexels-photo-6146970.jpeg"
       />
       
@@ -25,7 +25,7 @@ const AboutPage = () => {
           <div className="max-w-4xl mx-auto">
             <SectionTitle 
               title="Sejarah Singkat"
-              subtitle="Perjalanan NU Muslimah sejak didirikan hingga saat ini"
+              subtitle="Perjalanan Muslimat NU sejak didirikan hingga saat ini"
             />
             
             <motion.div 
@@ -36,15 +36,15 @@ const AboutPage = () => {
               transition={{ duration: 0.5 }}
             >
               <p>
-                NU Muslimah merupakan badan otonom perempuan dari organisasi Nahdlatul Ulama (NU) yang didirikan pada tanggal 26 Rabiul Awal 1421 H bertepatan dengan 29 Juni 2000. Organisasi ini dibentuk sebagai wadah bagi kaum perempuan NU untuk mengembangkan potensi dan meningkatkan peran perempuan dalam berbagai bidang kehidupan.
+                Muslimat NU merupakan badan otonom perempuan dari organisasi Muslimat NU (NU) yang didirikan pada tanggal 26 Rabiul Awal 1421 H bertepatan dengan 29 Juni 2000. Organisasi ini dibentuk sebagai wadah bagi kaum perempuan NU untuk mengembangkan potensi dan meningkatkan peran perempuan dalam berbagai bidang kehidupan.
               </p>
               
               <p>
-                Sejak berdirinya hingga saat ini, NU Muslimah telah mengalami perkembangan yang pesat. Organisasi ini telah memiliki kepengurusan di tingkat pusat, wilayah (provinsi), cabang (kabupaten/kota), hingga ranting (desa/kelurahan), dengan jumlah anggota mencapai jutaan perempuan di seluruh Indonesia.
+                Sejak berdirinya hingga saat ini, Muslimat NU telah mengalami perkembangan yang pesat. Organisasi ini telah memiliki kepengurusan di tingkat pusat, wilayah (provinsi), cabang (kabupaten/kota), hingga ranting (desa/kelurahan), dengan jumlah anggota mencapai jutaan perempuan di seluruh Indonesia.
               </p>
               
               <p>
-                Dalam perjalanannya, NU Muslimah telah melaksanakan berbagai program dan kegiatan yang berfokus pada peningkatan kualitas perempuan dalam bidang keagamaan, pendidikan, sosial, ekonomi, dan kesehatan. NU Muslimah juga aktif dalam advokasi isu-isu yang berkaitan dengan perempuan dan anak, serta dalam upaya pemberdayaan ekonomi perempuan melalui pengembangan UMKM dan koperasi.
+                Dalam perjalanannya, Muslimat NU telah melaksanakan berbagai program dan kegiatan yang berfokus pada peningkatan kualitas perempuan dalam bidang keagamaan, pendidikan, sosial, ekonomi, dan kesehatan. Muslimat NU juga aktif dalam advokasi isu-isu yang berkaitan dengan perempuan dan anak, serta dalam upaya pemberdayaan ekonomi perempuan melalui pengembangan UMKM dan koperasi.
               </p>
             </motion.div>
           </div>
@@ -57,7 +57,7 @@ const AboutPage = () => {
           <div className="max-w-4xl mx-auto">
             <SectionTitle 
               title="Visi & Misi"
-              subtitle="Tujuan dan langkah NU Muslimah"
+              subtitle="Tujuan dan langkah Muslimat NU"
             />
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mt-12">
@@ -103,7 +103,7 @@ const AboutPage = () => {
         <div className="container mx-auto px-4">
           <SectionTitle 
             title="Program Unggulan"
-            subtitle="Program-program yang menjadi fokus NU Muslimah"
+            subtitle="Program-program yang menjadi fokus Muslimat NU"
           />
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
@@ -252,7 +252,7 @@ const AboutPage = () => {
         <div className="container mx-auto px-4">
           <SectionTitle 
             title="Struktur Organisasi"
-            subtitle="Kepengurusan NU Muslimah periode 2020-2025"
+            subtitle="Kepengurusan Muslimat NU periode 2020-2025"
             light={true}
           />
           
@@ -328,7 +328,7 @@ const AboutPage = () => {
         <div className="container mx-auto px-4">
           <SectionTitle 
             title="Prestasi & Pencapaian"
-            subtitle="Beberapa prestasi dan pencapaian NU Muslimah"
+            subtitle="Beberapa prestasi dan pencapaian Muslimat NU"
           />
           
           <div className="max-w-4xl mx-auto mt-12">
@@ -419,9 +419,9 @@ const AboutPage = () => {
                   transition={{ duration: 0.5, delay: 0.8 }}
                 >
                   <div className="flex-1 order-2 md:order-1 md:pr-8 md:text-right">
-                    <h3 className="text-lg font-bold text-gray-800 mb-2">Pendirian NU Muslimah</h3>
+                    <h3 className="text-lg font-bold text-gray-800 mb-2">Pendirian Muslimat NU</h3>
                     <p className="text-gray-600">
-                      Berdirinya NU Muslimah sebagai badan otonom perempuan dari organisasi Nahdlatul Ulama.
+                      Berdirinya Muslimat NU sebagai badan otonom perempuan dari organisasi Muslimat NU.
                     </p>
                   </div>
                   

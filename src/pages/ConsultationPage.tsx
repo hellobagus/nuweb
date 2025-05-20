@@ -17,7 +17,7 @@ const ConsultationPage = () => {
         <div className="container mx-auto px-4">
           <SectionTitle 
             title="Layanan Konsultasi"
-            subtitle="NU Muslimah menyediakan layanan konsultasi dalam berbagai bidang untuk membantu muslimah menghadapi berbagai permasalahan"
+            subtitle="Muslimat NU menyediakan layanan konsultasi dalam berbagai bidang untuk membantu muslimah menghadapi berbagai permasalahan"
           />
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
@@ -149,7 +149,7 @@ const ConsultationPage = () => {
         <div className="container mx-auto px-4">
           <SectionTitle 
             title="Bagaimana Cara Kerjanya"
-            subtitle="Proses pengajuan konsultasi kepada NU Muslimah"
+            subtitle="Proses pengajuan konsultasi kepada Muslimat NU"
           />
           
           <div className="max-w-4xl mx-auto mt-12">

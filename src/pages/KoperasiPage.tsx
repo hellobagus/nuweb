@@ -84,8 +84,8 @@ const KoperasiPage = () => {
   return (
     <div>
       <Hero 
-        title="Koperasi NU Muslimah"
-        subtitle="Koperasi yang dikelola oleh NU Muslimah untuk kesejahteraan anggota"
+        title="Koperasi Muslimat NU"
+        subtitle="Koperasi yang dikelola oleh Muslimat NU untuk kesejahteraan anggota"
         backgroundImage="https://images.pexels.com/photos/5849577/pexels-photo-5849577.jpeg"
       />
       
@@ -222,6 +222,56 @@ const KoperasiPage = () => {
                     <option value="36">36 Bulan</option>
                   </select>
                 </div>
+                <div className="md:col-span-2">
+   <label className="block text-gray-700 mb-2">Cabang/Wilayah Anggota</label>
+   <select
+     name="loanTerm"
+     value={formData.loanTerm}
+     onChange={handleFormChange}
+     className="w-full px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500"
+     required
+   >
+    <option value="">Pilih Cabang / Wilayah</option>
+<option value="1">Aceh</option>
+<option value="2">Sumatera Utara</option>
+<option value="3">Sumatera Barat</option>
+<option value="4">Riau</option>
+<option value="5">Kepulauan Riau</option>
+<option value="6">Jambi</option>
+<option value="7">Sumatera Selatan</option>
+<option value="8">Bangka Belitung</option>
+<option value="9">Bengkulu</option>
+<option value="10">Lampung</option>
+<option value="11">DKI Jakarta</option>
+<option value="12">Jawa Barat</option>
+<option value="13">Banten</option>
+<option value="14">Jawa Tengah</option>
+<option value="15">DI Yogyakarta</option>
+<option value="16">Jawa Timur</option>
+<option value="17">Bali</option>
+<option value="18">Nusa Tenggara Barat</option>
+<option value="19">Nusa Tenggara Timur</option>
+<option value="20">Kalimantan Barat</option>
+<option value="21">Kalimantan Tengah</option>
+<option value="22">Kalimantan Selatan</option>
+<option value="23">Kalimantan Timur</option>
+<option value="24">Kalimantan Utara</option>
+<option value="25">Sulawesi Utara</option>
+<option value="26">Gorontalo</option>
+<option value="27">Sulawesi Tengah</option>
+<option value="28">Sulawesi Selatan</option>
+<option value="29">Sulawesi Tenggara</option>
+<option value="30">Sulawesi Barat</option>
+<option value="31">Maluku</option>
+<option value="32">Maluku Utara</option>
+<option value="33">Papua</option>
+<option value="34">Papua Barat</option>
+<option value="35">Papua Selatan</option>
+<option value="36">Papua Tengah</option>
+<option value="37">Papua Pegunungan</option>
+<option value="38">Papua Barat Daya</option>
+   </select>
+ </div>
                 <div className="md:col-span-2">
                   <label className="block text-gray-700 mb-2">Tujuan Pinjaman</label>
                   <textarea
